@@ -1,2 +1,2 @@
-# BT-SQLite
-TestSQLIte and BT
+BT-SQLite
+To test BT and SQLite
